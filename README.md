@@ -13,3 +13,6 @@ I built my system with:
 - UI with pyqt5
 - HTTP
 - Flutter App Controlling
+3. Schematic
+  <img width="537" height="611" alt="image" src="https://github.com/user-attachments/assets/664ea2ff-0bf2-44fe-9b5e-a066fddfc244" />
+
